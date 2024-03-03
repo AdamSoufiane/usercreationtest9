@@ -1,0 +1,1 @@
+This shred represents the User Registration feature in a Spring Boot application following Hexagonal Architecture. The structure is refined to include a domain layer with user entities and value objects, an application layer to handle the registration logic, and an infrastructure layer for data pers
